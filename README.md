@@ -1,2 +1,2 @@
 # mtuci
-velibekov's nariman 9th laboratory work
+Velibekov Nariman's 9th Laboratory Work
